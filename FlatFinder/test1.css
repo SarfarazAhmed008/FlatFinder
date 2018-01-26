@@ -1,0 +1,64 @@
+
+
+
+
+.header {
+  background-color: #ffffff;
+  padding: 1px;
+  text-align: center;
+  font-family: Brush Script MT, Brush Script Std, cursive;
+  font-style: oblique;
+  color: #321730;
+  background-image: url("header.jpg");
+}
+#title {
+  font-size: 55px;
+}
+#subtitle {
+  font-size: 30px;
+}
+
+#navbar {
+  overflow: hidden;
+  background-color: #333;
+  padding-left: 365px;
+
+}
+
+#navbar a {
+  
+  display: block;
+  color: #f2f2f2;
+  text-align: center;
+  padding: 14px 16px;
+
+  text-decoration: none;
+  float: left;
+  font-size: 17px;
+}
+
+#navbar a:hover {
+  background-color: #ddd;
+  color: black;
+}
+
+.content {
+  padding: 50px;
+  padding-top: 10px;
+}
+
+.fixed-footer{
+  width: 100%;        
+  background: #333;
+  color: #fff;
+  bottom: 0;
+  padding: 10px 0;
+  font-size: 17px;
+  text-align: center;
+
+}
+
+.container{
+  width: 80%;
+  margin: 0 auto; /* Center the DIV horizontally */
+}
