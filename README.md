@@ -8,6 +8,7 @@ This application solves this issue, with this the private landlords will also ha
 This application is developed with PHP, Relational Database (MySQL), JavaScript, HTML5, CSS3 
 
 Currently, this web application is hosted using Microsoft Azure
+
 Web Link: https://sa-flatfinder.azurewebsites.net/FlatFinder/home.php 
 
 Developed By Sarfaraz Ahmed
