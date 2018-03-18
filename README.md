@@ -7,6 +7,9 @@ This application solves this issue, with this the private landlords will also ha
 
 ![alt tag](https://user-images.githubusercontent.com/21248324/37570035-ba563284-2b14-11e8-8e8c-551c7c84c471.JPG)
 
+Admin Panel-
+![alt tag](https://user-images.githubusercontent.com/21248324/37570267-087c83f2-2b18-11e8-8c59-ced54804ec63.JPG)
+
 This application is developed with PHP, Relational Database (MySQL), JavaScript, HTML5, CSS3 
 
 Currently, this web application is hosted using Microsoft Azure
